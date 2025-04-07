@@ -1,0 +1,33 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+
+img {
+    border: 2px solid #f0f0f0; /* Borde */
+    border-radius: 10px; /* Bordes Redondos */
+    box-shadow: 0 4px 8px rgb(255, 255, 255); /* Sombra */
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #666;
+    text-align: center;
+} 
+
+p {
+    color: #444;
+    text-align: justify;
+}
+
+.about-me {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(112, 111, 111);
+    text-align: center;
+}
